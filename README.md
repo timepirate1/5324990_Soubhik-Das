@@ -1,1 +1,8 @@
-# 5324990_Soubhik-Das
+# 5324990\_Soubhik-Das
+
+
+
+
+
+!\[Agile Assignment Screenshot](SDLC/sdlc agile assignment screenshot.png)
+
