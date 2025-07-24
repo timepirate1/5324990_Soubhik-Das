@@ -4,5 +4,5 @@
 
 
 
-!\[Agile Assignment Screenshot](SDLC/sdlc agile assignment screenshot.png)
+![Agile Assignment Screenshot](SDLC/sdlc agile assignment screenshot.png)
 
